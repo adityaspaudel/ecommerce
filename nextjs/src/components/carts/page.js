@@ -8,7 +8,9 @@ const Cart = () => {
 	return (
 		<div className="flex flex-col gap-4 text-[12px] h-[400px] w-[300px] bg-blue-100 text-black m-auto ">
 			<div className="flex flex-col gap-4 text-[12px] h-[400px] w-[300px] bg-blue-100 text-black m-auto p-2 rounded-xl">
-				<h1 className="font-bold text-lg text-center bg-red-400 text-white">YOUR CART</h1>
+				<h1 className="font-bold text-lg text-center bg-red-400 text-white">
+					YOUR CART
+				</h1>
 				<div>
 					<div className="flex gap-10 justify-between items-center">
 						<span>50$</span>
@@ -51,7 +53,6 @@ const Cart = () => {
 					</div>
 					<hr className="border-black my-2" />
 
-					
 					<div className="flex gap-10 justify-between items-center font-bold">
 						<span>sub total:</span>
 						<hr className="border-black my-2" />
