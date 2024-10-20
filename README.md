@@ -4,3 +4,4 @@
 
 1. Nextjs
 2. React-icons
+3. Formik & Yup validations
