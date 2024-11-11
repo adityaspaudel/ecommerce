@@ -1,6 +1,3 @@
-# ecommerce
-
-# NextCommerce: A Modern Ecommerce Platform
 
 Welcome to NextCommerce, a high-performance ecommerce platform built with Next.js and designed for the modern web. This project leverages the power of React Server Components, Server Actions, and the App Router to deliver a fast, scalable, and user-friendly shopping experience.
 
@@ -85,3 +82,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Built with ❤️ using [Next.js Commerce](https://vercel.com/templates/next.js/nextjs-commerce) as inspiration [^2].
+
