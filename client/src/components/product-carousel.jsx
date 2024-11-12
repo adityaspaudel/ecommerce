@@ -79,7 +79,7 @@ export default function ProductCarousel() {
 
 	return (
 		<div className="flex flex-col items-center justify-center bg-black p-6">
-			<h2 className="text-green-500 text-xl mb-4">Our Products</h2>
+			<h2 className="text-green-500 text-xl mb-4">Flash Products</h2>
 			<div className="flex justify-center items-center bg-white text-black h-96 w-full  rounded-lg shadow-lg overflow-hidden">
 				<div className="flex flex-col w-full  justify-between items-center">
 					<img
